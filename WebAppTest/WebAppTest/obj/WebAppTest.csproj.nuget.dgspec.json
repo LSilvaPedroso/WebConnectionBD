@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedroso\\source\\repos\\WebAppTest\\WebAppTest\\WebAppTest.csproj": {}
+    "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\WebAppTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedroso\\source\\repos\\WebAppTest\\WebAppTest\\WebAppTest.csproj": {
+    "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\WebAppTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedroso\\source\\repos\\WebAppTest\\WebAppTest\\WebAppTest.csproj",
+        "projectUniqueName": "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\WebAppTest.csproj",
         "projectName": "WebAppTest",
-        "projectPath": "C:\\Users\\Pedroso\\source\\repos\\WebAppTest\\WebAppTest\\WebAppTest.csproj",
+        "projectPath": "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\WebAppTest.csproj",
         "packagesPath": "C:\\Users\\Pedroso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedroso\\source\\repos\\WebAppTest\\WebAppTest\\obj\\",
+        "outputPath": "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
