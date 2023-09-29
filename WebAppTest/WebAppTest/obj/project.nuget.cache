@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9OHb1vjxWDKVOgc2UpmGEC28NWMxhKF1vI5yAlZ4a7Vt7szKH6sko1N7bhJwSbaIXaXWyncqd6/TMADTBSUYrQ==",
+  "dgSpecHash": "/v5312av8xs+EXUJlL2uJmolOWndq/ljYKW84rq8OpiNpzLjetmh8VlMYMmBmKxf1pXMuS1JKFTEGRCe76mJYw==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\WebAppTest.csproj",
+  "projectFilePath": "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\WebAppIdwall.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedroso\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Pedroso\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace WebAppTest.Models
 {
     [Table("T_USERS")]
-    public class User
+    public class UsersModel
     {
         [Column("ID_USER")]
         [Display(Name = "Código")]
@@ -21,7 +21,7 @@ namespace WebAppTest.Models
         [Column("SEC_PASSWORD")]
         [Display(Name = "Senha")]
         public string Password { get; set; }
-        public User() { }
+        public UsersModel() { }
 
     }
 }

@@ -12452,9 +12452,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\WebAppTest.csproj",
-      "projectName": "WebAppTest",
-      "projectPath": "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\WebAppTest.csproj",
+      "projectUniqueName": "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\WebAppIdwall.csproj",
+      "projectName": "WebAppIdwall",
+      "projectPath": "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\WebAppIdwall.csproj",
       "packagesPath": "C:\\Users\\Pedroso\\.nuget\\packages\\",
       "outputPath": "D:\\Projetos\\WebAppTest\\WebConnectionBD\\WebAppTest\\WebAppTest\\obj\\",
       "projectStyle": "PackageReference",
